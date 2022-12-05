@@ -2,6 +2,9 @@ import sys
 from pathlib import Path
 from typing import Tuple
 
+"""
+https://adventofcode.com/2022/day/1
+"""
 
 def main() -> Tuple[int, int]:  # why can't I use tuple(int, int) ?
     """Return a tuple of elf with most calories and calories hey have"""
